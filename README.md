@@ -1,5 +1,6 @@
 # #239 ESP32 NeoPixels & a Level Shifter  
 Use a level shifter for all 3v3 microcontrollers to avoid strange LED behaviours  
+### See video #239 https://youtu.be/SStRG-_1wXc
 
 A simple proof-of-concept sketch for the ESP32 to show two strips of NeoPixels running using some very simple loops.
 
